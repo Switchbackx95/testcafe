@@ -1,0 +1,14 @@
+{
+  "name": "mytestapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+"e2e:chrome": "testcafe chrome ./Tests/Index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.14.2"
+  }
+}
