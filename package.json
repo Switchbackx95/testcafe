@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-"e2e:chrome": "testcafe chrome ./Tests/Index.js"
+"e2e:chrome": "testcafe chrome ./Tests/Index.js",
+"e2e":"testcafe firefox ./Tests/Index.js"
   },
   "author": "",
   "license": "ISC",
